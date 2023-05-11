@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+h1 {
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 700;
+font-size: 74px;
+line-height: 84px;
+text-align: cente;
+letter-spacing: 0.2px;
+color: white;
+width: 672px;
+height: 168px;
+margin: auto;
+
+}
+.hero__description {
+
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 40px;
+text-align: center;
+letter-spacing: 0.2px;
+color:white;
+width: 766px;
+height: 80px;
+margin: auto;
+}
+.hero__button {
+color: white;
+display: block;
+margin: auto;
+align-items: center;
+padding:16px 0px;
+background: #2091F9;
+border-radius: 35px;
+width: 236px;
+height: 52px
+}
